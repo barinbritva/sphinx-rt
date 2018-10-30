@@ -3,10 +3,6 @@ Sphinx-RT-Wrap-Class
 
 Library for a easy work with Sphinx RT indexes for PHP
 
-## Warning ##
-
-Excuse my English. Original instruction written on Russian. I would be pleased, if anybody will translate it to correct English.
-
 ## Entry ##
 
 This class created for work with Sphinx (search engine) RT indexes through SphinxQL.
