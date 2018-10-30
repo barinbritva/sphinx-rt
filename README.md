@@ -1,7 +1,7 @@
-Sphinx-RT-Wrap-Class
+Sphinx RT
 ====================
 
-Library for a easy work with Sphinx RT indexes for PHP
+PHP library for a easy work with Sphinx RT indexes
 
 ## Entry ##
 
